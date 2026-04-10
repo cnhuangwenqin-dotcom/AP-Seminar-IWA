@@ -1,4 +1,9 @@
-\documentclass{article}
+\documentclass[12pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{natbib}
+\setstretch{1.0}
 
 %\title{Reducing the Environmental Costs of Frequent Rocket Launches in the Era of LEO Broadband Expansion}
 %\author{}
@@ -12,40 +17,23 @@
 %In the context of rapid LEO satellite broadband expansion, to what extent can technological strategies such as reusable launch vehicles, alternative propellants, and satellite miniaturization reduce the environmental costs of frequent launches?
 
 %\section{Introduction}
-As low Earth orbit broadband networks expand rapidly, space launches have become increasingly indispensable to global connectivity, yet their growing environmental costs can no longer be treated as a secondary concern. Space activity is no longer occasional; it is becoming a rapidly expanding industrial sector: according to Ryan et al.'s 2022 research, the scale of it will leap from 350 billion in 2019 to over a trillion by 2040~\cite{ryan2022ozone}. This critical leap will probably cause a substantial intensification and amplification of its environmental impacts . Additionally, by rocket launching activities, multiple pollutants will be directly injected into upper atmosphere, where pollution will be far more destructive, exposing a direct threat on ozone~\cite{ryan2022ozone}. Moreover, this expansion is not only what will happen in the future, but already ongoing: the frequency of rocket launching increased substantially from 58 times in 2003 to 329 times in 2025~\cite{mcdowell2025space}. The pollution is not simply limited in earth ecosystem, but also influence the 
+As low Earth orbit broadband networks expand rapidly, space launches have become increasingly indispensable to global connectivity, yet their growing environmental costs can no longer be treated as a secondary concern. Space activity is no longer occasional; it is becoming a rapidly expanding industrial sector: according to Ryan et al.'s 2022 research, the scale of it will leap from 350 billion in 2019 to over a trillion by 2040~\citep{ryan2022ozone}. This critical leap will probably cause a substantial intensification and amplification of its environmental impacts . Additionally, by rocket launching activities, multiple pollutants will be directly injected into upper atmosphere, where pollution will be far more destructive, exposing a direct threat on ozone~\citep{ryan2022ozone}. Moreover, this expansion is not only what will happen in the future, but already ongoing: the frequency of rocket launching increased substantially from 58 times in 2003 to 329 times in 2025~\citep{mcdowell2025space}. The pollution is not simply limited in earth ecosystem, but also influence the earth orbits. Frequent satellite constallation will also occupy earth orbits, creates hundreds of thousands pieces of space debris, and subsequently obstruct future satellite deployments~\citep{torres2020reusable}. Thus, the environmental impact of rocket launching could no longer br ignored, since the industry is rapidly expanding, and it influences environment in multiple different ways.
+
+However, the constallation of LEO broadband is not simply a symbolic space activity, but an important component of communication infrastructure. The rapid expansion of OneWeb and Starlink is motivated and triggered by the growth of global communication demand. The connectivity created by LEO broadband systems are also widely argued to be beneficial, especially in remote areas, where traditional internet doesn't cover: LEO satellite provides them internet connection, and therefore improve their social connection, and subsequently mental health \citep{osoro2025leo, sandau2010smallsat}. Based on the benefit it brings, space launches should not simply be halted. Thus, the true essential problem is "to what extent can technological strategies reduce these environmental costs and improce the sustainability", rather than "whether people should countinue launching or not".
+
+To address the environmental costs associated with frequent space launches, various technological strategies have been proposed to improve the sustainability of launch systems. Among these, reusable launch vehicles, alternative propellants, and satellite miniaturization are often considered to be the most practical approaches. Their effects can be evaluated based on their ability to reduce emissions, minimize life-cycle environmental impacts, and remain effective under the rapid expansion of satellite deployment. However, the effectiveness and validity of these approaches are not essentially limited by technological capability, but are complicated by financial incentives, technological limitations, and the rebound effect that may offset or even reverse their environmental benefits. Therefore, although technological strategies are already sufficiently developed to reduce the environmental impact of space launches, their real-world effectiveness remains constrained by economic barriers, industrial inertia, and the rapid expansion of LEO megaconstellations, limiting their practical implementation.
 
 
-%\subsection{The Necessity of Space Launches}
 
-%\subsection{Environmental Benefits of LEO Broadband}
+Alternative propellants is the most direct technique to reduce environmental impact among three approaches, since it changes the fuel combustion product directly. Dallas et al. systematically reviewed the environmental impact brought by traditional propellants, and argue that solid fuel, with typically involves chemicals like ammonium perchlorate, may potentially damage the ozone the most; kerosene-based propellants mainly emit carbon dioxide (CO$_2$) and black carbon, which may intensify green house effect, but normally are less destructive than solid propellants~\citep{dallas2020review}. By contrast, alternative fuels are suggested to be more environmentally friendly. Liquid hydrogen is widely recommended as a candidate for future propelling, since the emission it generates contains mainly water vapor, and with negligible ecological toxicity~\citep{dallas2020review,barato2023fuels}. To be more specific, Calabuig et al.'s study suggests that the carbon footprint of liquid hydrogen (alternative propellant) fleets is typically 2--8 times less than methane-based (transitional propellant, cleaner than kerosene, but not as clean as hydrogen) vehicle fleets. Additionally, they further argues that, in most cases, choosing sustainable propellants will effect more than the vehicle's reusability: propellant choice is the main differentiation factor when it's under environmental criteria~\citep{calabuig2024reusable}. Recent research by Hai et al. suggests that environmentallt friendly pollutants not only reduce toxic products, but also lowers the risk of transporting and operating~\citep{hai2026propellants}. These findings collectively suggest that alternative propellants provide a highly effective pathway for reducing the environmental impact of rocket launches in principle. However, their real-world implementation remains constrained by practical and economic challenges. The storage and transportation for alternative propellants is typically complex and expensive. Dallas et al. argue that liquid hydrogen is inherently unsuitable for storing: its density is lower, which means it requires a storing system that is significantly larger and more complex to be stored than traditional fuels; additionally, the boiling point of liquid hydrogen is considerably lower, which means the propellant will be more likely to vaporize---existing propellant storing tanks may not be suitable for storing~\citep{dallas2020review}. This indicates that the cleaner propellant may not be easirer to be stored or get used. Additionally, Calabuig et al. also argue that although the technology is proven beneficial, the cost is still significantly higher than traditional, and the industry, including producing, transporting, and storing, is also immature. Since more and more rocket launching activities are nowadays carried out by private sectors, rather than government-supported institutions, the higher cost may discourage companies from utilizing alternative propellants~\citep{calabuig2024reusable}. Therefore, the established aerospace industry was structured around traditional propellants like kerosene, and the transformation may not be financially favorable. In conclusion, alternative propellants offer an concrete environmentally friendly choice and emission reduction strategy, but its effect depends on the pace of industrial transformation and financial incentives, rather than technological limitations.
 
-%\subsection{The Central Problem: Balancing Progress with Environmental Protection}
 
-%\section{LEO Broadband Expansion Makes Rocket Pollution More Urgent}
 
-%\subsection{The Connection Between LEO Expansion and Rocket Emissions}
+However, propellant choice alone does not fully determine the environmental impact of space launches. Beyond fuel composition, the design and operational characteristics of launch systems—--particularly the use of reusable launch vehicles—--also play a critical role. Reusable launch vehicles offers a promising solution to reduce the environmental costs of space launches by reducing the munufacturing emissions and wastes. Therefore, applying reusable rocket technology can reduce the manufacturing cost for launching, but it will not necessarily reduce net environmental impact, Calabuig et al. argue~\citep{calabuig2024reusable}. In one hand, reusable wehicles can improve the material efficiency of fixed equipments, the fleet, and therefore reduce the launching cost financially. As Calabuig writes, the origional idea of reusable rockets is to reduce material wasting, and when evaluating under the criterion of launching impact per unit of mass, reusable vehicles can indeed improve both environmental and financial efficiency. However, Calabuig et al. also provide solid numerical evidence proving that the improvement by reusable rockets is limited: for liquid hydrogen fleets, the climate impact could not be reduced over 40\%, for methane fleets, the impact is less significant, around 20\%~\citep{calabuig2024reusable}. This trend indicates that the climate impact reduction is considerable, but not as transformative as alternative propellants. However, long term assessments, like life-cycle evaluations, are also critical in evaluating environmental impact of an industry~\citep{wilson2022lifecycle}. While under long term evaluation, because such vehicles are more financially favorable, with same budgets, companies may launch substantially more frequently and combust a significantly greater amount of propellants, which, as mentioned in last paragraph,  could amplify the environmental impact and carbon emission to a greater extent, causing a rebound effect. The rebound effect of reusable vehicles is well illustrated by SpaceX, a private launch provider that has pioneered the large-scale adoption of reusable rocket technology, particularly through its Falcon 9 program. According to FAA environmental reviews, the annual Falcon launch cadence considered for SpaceX has risen steadily, from 20 launches per year at LC-39A and 50 at SLC-40 in the 2020 assessment, to 36 launches per year at Vandenberg in 2023, 50 in 2024, and 100 in the 2025 Vandenberg EIS \citep{faa2025falconprogram}, while it reaches 165 times of launching in 2025, this single year~\citep{mcdowell2025space}. This statistics comfirms the launching frequency's leap under the implementation of reusable vehicle fleets. To summarize, while reusable launch vehicles improve efficiency by reducing manufacturing impacts and lowering costs, their overall environmental benefits remain limited and can be offset, or even reversed, by increased launch frequency driven by economic incentives.
 
-%\subsection{The Complete Satellite Lifecycle}
 
-%\subsection{Frequent Launches as the Core Driver}
 
-%\section{Environmental Costs of Traditional Rocket Launches}
-
-%\subsection{Ozone Depletion}
-
-%\subsection{Climate Warming}
-
-%\subsection{Local Ecological Damage}
-
-%\subsection{High-Altitude Emissions: A Neglected Concern}
-
-%\section{Technological Strategies: Measurable but Incomplete Mitigation}
-
-%\subsection{Strategy 1: Reusable Launch Vehicles}
-
-%\subsection{Strategy 2: Alternative Propellants}
-
-%\subsection{Strategy 3: Satellite Miniaturization}
+Satellite miniaturization improves the functional efficiency of individual satellites, but it also lowers the barrier to large-scale deployment. As Sandau et al. suggested, satellite miniaturization could improve the efficiency per unit of mass by reducing the mass while the function unchanged, and enable the satellite broadband system to cover globally~\citep{sandau2010smallsat}. Satellite miniaturization also makes satellites cheaper, easier to design, and to deploy. For environmental impact, the miniaturization of satellites means that, with same rocket, more satellites could be launched and deployed, therefore, the average environmental cost of each satellite could be reduced.
 
 %\subsection{Comparative Assessment}
 
@@ -59,7 +47,7 @@ As low Earth orbit broadband networks expand rapidly, space launches have become
 
 %\section{Conclusion}
 
-
+\newpage
 \bibliographystyle{apalike}
 \bibliography{references}
 
