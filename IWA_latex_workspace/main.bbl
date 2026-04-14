@@ -5,14 +5,30 @@ Barato, F. (2023).
 \newblock Review of alternative sustainable fuels for hybrid rocket propulsion.
 \newblock {\em Aerospace}, 10(7):643.
 
+\bibitem[Brown et~al., 2024]{brown2024inventory}
+Brown, T.~F., Bannister, M.~T., Revell, L.~E., Sukhodolov, T., and Rozanov, E.
+  (2024).
+\newblock Worldwide rocket launch emissions 2019: An inventory for use in
+  global models.
+\newblock {\em Earth and Space Science}, 11.
+
+\bibitem[Bushnell and Moses, 2018]{bushnell2018newspace}
+Bushnell, D.~M. and Moses, R.~W. (2018).
+\newblock Commercial space in the age of new space, reusable rockets and the
+  ongoing tech revolutions.
+
 \bibitem[Dallas et~al., 2020]{dallas2020review}
-Dallas, J.~A., Raval, S., Alvarez~Gaitan, J.~A., Saydam, S., and Dempster, A.~G. (2020).
-\newblock The environmental impact of emissions from space launches: A comprehensive review.
+Dallas, J.~A., Raval, S., Alvarez~Gaitan, J.~A., Saydam, S., and Dempster,
+  A.~G. (2020).
+\newblock The environmental impact of emissions from space launches: A
+  comprehensive review.
 \newblock {\em Journal of Cleaner Production}, 255:120209.
 
 \bibitem[Dominguez~Calabuig et~al., 2024]{calabuig2024reusable}
-Dominguez~Calabuig, G.~J., Wilson, A., Bi, S., Vasile, M., Sippel, M., and Tajmar, M. (2024).
-\newblock Environmental life cycle assessment of reusable launch vehicle fleets.
+Dominguez~Calabuig, G.~J., Wilson, A., Bi, S., Vasile, M., Sippel, M., and
+  Tajmar, M. (2024).
+\newblock Environmental life cycle assessment of reusable launch vehicle
+  fleets.
 \newblock {\em Acta Astronautica}, 221:1--11.
 
 \bibitem[{Federal Aviation Administration}, 2025]{faa2025falconprogram}
@@ -21,16 +37,25 @@ Dominguez~Calabuig, G.~J., Wilson, A., Bi, S., Vasile, M., Sippel, M., and Tajma
 \newblock Last updated November 5, 2025; accessed April 9, 2026.
 
 \bibitem[Hai et~al., 2026]{hai2026propellants}
-Hai, A., Darfilal, D., AlHammadi, F., Syed, S.~S., Alhashmi, H., Nabi, A., and Swei, S. S.~M. (2026).
-\newblock Propelling sustainability: Green and alternative fuels for space missions.
+Hai, A., Darfilal, D., AlHammadi, F., Syed, S.~S., Alhashmi, H., Nabi, A., and
+  Swei, S. S.~M. (2026).
+\newblock Propelling sustainability: Green and alternative fuels for space
+  missions.
+
+\bibitem[Kokkinakis and Drikakis, 2022]{kokkinakis2022pollution}
+Kokkinakis, I.~W. and Drikakis, D. (2022).
+\newblock Atmospheric pollution from rockets.
+\newblock {\em Physics of Fluids}, 34(5).
 
 \bibitem[Kukreja et~al., 2025]{kukreja2025leo}
 Kukreja, R., Oughton, E.~J., and Linares, R. (2025).
-\newblock Greenhouse gas emissions poised to rocket: Modeling the environmental impact of leo satellite constellations.
+\newblock Greenhouse gas emissions poised to rocket: Modeling the environmental
+  impact of leo satellite constellations.
 
 \bibitem[Kumaran et~al., 2024]{kumaran2024manufacturing}
 Kumaran, S.~T., Tan, C., and Emes, M. (2024).
-\newblock Quantifying the environmental impacts of manufacturing low earth orbit (leo) satellite constellations.
+\newblock Quantifying the environmental impacts of manufacturing low earth
+  orbit (leo) satellite constellations.
 \newblock {\em Sustainability}.
 
 \bibitem[McDowell, 2026]{mcdowell2025space}
@@ -46,13 +71,15 @@ Osoro, O.~B., Oughton, E.~J., Wilson, A., and Rao, A. (2025).
 
 \bibitem[Ryan et~al., 2022]{ryan2022ozone}
 Ryan, R.~G., Marais, E.~A., Balhatchet, C.~J., and Eastham, S.~D. (2022).
-\newblock Impact of rocket launch and space debris air pollutant emissions on stratospheric ozone and global climate.
+\newblock Impact of rocket launch and space debris air pollutant emissions on
+  stratospheric ozone and global climate.
 \newblock {\em Earth's Future}, 10(6):e2021EF002612.
 
 \bibitem[Sandau et~al., 2010]{sandau2010smallsat}
 Sandau, R., Brieß, K., and D'Errico, M. (2010).
 \newblock Small satellites for global coverage: Potential and limits.
-\newblock {\em ISPRS Journal of Photogrammetry and Remote Sensing}, 65(6):492--504.
+\newblock {\em ISPRS Journal of Photogrammetry and Remote Sensing},
+  65(6):492--504.
 
 \bibitem[Torres, 2020]{torres2020reusable}
 Torres, A.~I. (2020).
@@ -61,7 +88,9 @@ Torres, A.~I. (2020).
 
 \bibitem[Wilson et~al., 2022]{wilson2022lifecycle}
 Wilson, A.~R., Vasile, M., Maddock, C., and Baker, K. (2022).
-\newblock Implementing life cycle sustainability assessment for improved space mission design.
-\newblock {\em Integrated Environmental Assessment and Management}, 19(4):1002--1022.
+\newblock Implementing life cycle sustainability assessment for improved space
+  mission design.
+\newblock {\em Integrated Environmental Assessment and Management},
+  19(4):1002--1022.
 
 \end{thebibliography}

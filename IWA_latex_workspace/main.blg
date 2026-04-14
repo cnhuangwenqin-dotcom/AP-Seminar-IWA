@@ -3,46 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: apalike.bst
 Database file #1: references.bib
+Warning--empty journal in bushnell2018newspace
 Warning--empty journal in hai2026propellants
-You've used 13 entries,
+You've used 16 entries,
             1935 wiz_defined-function locations,
-            544 strings with 6102 characters,
-and the built_in function-call counts, 4951 in all, are:
-= -- 467
-> -- 250
-< -- 4
-+ -- 88
-- -- 86
-* -- 434
-:= -- 914
-add.period$ -- 38
-call.type$ -- 13
-change.case$ -- 109
-chr.to.int$ -- 13
-cite$ -- 14
-duplicate$ -- 167
-empty$ -- 308
-format.name$ -- 99
-if$ -- 921
+            559 strings with 6605 characters,
+and the built_in function-call counts, 5978 in all, are:
+= -- 562
+> -- 304
+< -- 6
++ -- 106
+- -- 104
+* -- 521
+:= -- 1106
+add.period$ -- 46
+call.type$ -- 16
+change.case$ -- 133
+chr.to.int$ -- 16
+cite$ -- 18
+duplicate$ -- 206
+empty$ -- 369
+format.name$ -- 124
+if$ -- 1112
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 67
-num.names$ -- 39
-pop$ -- 87
+missing$ -- 13
+newline$ -- 81
+num.names$ -- 48
+pop$ -- 107
 preamble$ -- 1
-purify$ -- 108
+purify$ -- 132
 quote$ -- 0
-skip$ -- 130
+skip$ -- 164
 stack$ -- 0
-substring$ -- 296
-swap$ -- 9
+substring$ -- 332
+swap$ -- 11
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 78
-warning$ -- 1
-while$ -- 35
+type$ -- 96
+warning$ -- 2
+while$ -- 41
 width$ -- 0
-write$ -- 164
-(There was 1 warning)
+write$ -- 200
+(There were 2 warnings)
