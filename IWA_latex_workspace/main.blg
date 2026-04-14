@@ -4,45 +4,45 @@ The top-level auxiliary file: main.aux
 The style file: apalike.bst
 Database file #1: references.bib
 Warning--empty journal in hai2026propellants
-You've used 11 entries,
+You've used 13 entries,
             1935 wiz_defined-function locations,
-            537 strings with 5724 characters,
-and the built_in function-call counts, 4313 in all, are:
-= -- 407
-> -- 214
+            544 strings with 6102 characters,
+and the built_in function-call counts, 4951 in all, are:
+= -- 467
+> -- 250
 < -- 4
-+ -- 76
-- -- 74
-* -- 382
-:= -- 791
-add.period$ -- 33
-call.type$ -- 11
-change.case$ -- 93
-chr.to.int$ -- 11
-cite$ -- 12
-duplicate$ -- 144
-empty$ -- 273
-format.name$ -- 85
-if$ -- 805
++ -- 88
+- -- 86
+* -- 434
+:= -- 914
+add.period$ -- 38
+call.type$ -- 13
+change.case$ -- 109
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 167
+empty$ -- 308
+format.name$ -- 99
+if$ -- 921
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 9
-newline$ -- 58
-num.names$ -- 33
-pop$ -- 72
+missing$ -- 10
+newline$ -- 67
+num.names$ -- 39
+pop$ -- 87
 preamble$ -- 1
-purify$ -- 92
+purify$ -- 108
 quote$ -- 0
-skip$ -- 112
+skip$ -- 130
 stack$ -- 0
-substring$ -- 272
-swap$ -- 8
+substring$ -- 296
+swap$ -- 9
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 66
+type$ -- 78
 warning$ -- 1
-while$ -- 31
+while$ -- 35
 width$ -- 0
-write$ -- 142
+write$ -- 164
 (There was 1 warning)
